@@ -1,9 +1,9 @@
-name: Deploy to Vercel
+name: Deploy Angular App to Vercel
 
 on:
   push:
     branches:
-      - Deployment  # or main, depending on your branch
+      - Deployment
 
 jobs:
   deploy:
@@ -17,6 +17,12 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Angular CLI
+        run: npm install --save-dev @angular/cli
 
       - name: Install Vercel CLI
         run: npm install -g vercel
