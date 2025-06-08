@@ -6,7 +6,7 @@
     "ziad-portfolio": {
       "projectType": "application",
       "schematics": {},
-      "root": "",
+      "root": "ziad",
       "sourceRoot": "src",
       "prefix": "app",
       "i18n": {
