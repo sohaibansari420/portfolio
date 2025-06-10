@@ -70,117 +70,104 @@
     "FeatureProjects.Label": "Featured Project",
     "FeatureProjects.Projects": [
         {
-            "Title": "Symptom Checker Bot",
-            "Description": "A Next Generation School Management System application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
-            "imgs": [
-                "assets/images/school/image1.png",
-                "assets/images/school/image2.png"
-            ],
-            "Technologies": [
-                "Nextjs",
-                "SASS",
-                "Angular Material",
-                "RxJS"
-            ]
-        },
-        {
-            "Title": "Best Buy Mall",
-            "Description": "Best Buy Mall is Online Shopping Mall where you can buy your groceries and household products from your favourite local stores. It has <span class='underline'>online chat, </span, <span class='underline'> &nbsp;order history</span>, <span class='underline'>notification system on number and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>stripe integration for secure payments.</span>",
-            "imgs": [
-                "assets/images/bbm/image1.png",
-                "assets/images/bbm/image2.png"
-            ],
-            "Technologies": [
-                "Angular",
-                "SASS",
-                "Material",
-                "RxJS",
-                "ExpressJS"
-            ]
-        },
-        {
-            "Title": " Mazhr",
-            "Description": " Mazhr is a Finnish Intelligent Potential and Talent Management company. that help organizations to build better and more efficient teams by matching their  <span class='underline'>Talent</span> and <span class='underline'>Potentials</span>. It has various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
-            "imgs": [
-                "assets/images/mazhr/image1.png"
-            ],
-            "Technologies": [
-                "React",
-                "SASS",
-                "Material",
-                "Babel",
-                "NodeJS"
-            ]
-        },
-        {
-            "Title": "Needle",
-            "Description": "Needle Music is a pioneer in the digital music industry as it allows users to create and manage their first and only Audiobiography. It built with the <span class='underline'>Spotify SDK</span> Integration.",
-            "imgs": [
-                "assets/images/mazhr/needle.png"
-            ],
-            "demoLink": "https://profile.needlemusic.co/bub",
-            "Technologies": [
-                "React",
-                "ChartJS",
-                "SASS",
-                "NodeJS",
-                "Python"
-            ]
-        }
+    "Title": "SympCheck - AI Symptom Checker",
+    "Description": "SympCheck is an AI-powered symptom checker application built using a modern full-stack approach. It leverages natural language processing through the Groq API to provide users with a preliminary understanding of potential health issues based on their symptom inputs. The application is developed with Next.js, TypeScript, TailwindCSS on the frontend, and Express.js on the backend, ensuring reliability and scalability. CI/CD is managed via GitHub Actions, and the system is deployed on AWS EC2. SympCheck emphasizes ethical AI use, avoiding diagnosis or medication suggestions.",
+    "imgs": [
+        "assets/images/school/image1.png",
+        "assets/images/school/image2.png",
+        "assets/images/school/image3.png"
     ],
+    "Technologies": [
+        "Next.js",
+        "TypeScript",
+        "TailwindCSS",
+        "Express.js",
+        "Groq API",
+        "AWS EC2",
+        "GitHub Actions"
+    ]
+},
+        {
+    "Title": "Fixes Hub",
+    "Description": "Fixes Hub is a comprehensive Shopify development project focused on enhancing user experience and streamlining backend operations for e-commerce businesses. The project involved developing and customizing Shopify themes using Liquid, HTML, CSS, and JavaScript to ensure brand consistency and improve storefront responsiveness. It also integrated third-party Shopify apps and APIs to extend store functionality, built custom apps using Node.js and the Shopify API to automate business processes, and configured Shopify Plus features including checkout customizations. Regular planning meetings and stakeholder updates ensured clear communication and smooth project execution.",
+    "imgs": [
+        "assets/images/bbm/image1.png",
+        "assets/images/bbm/image2.png"
+    ],
+    "Technologies": [
+        "Shopify",
+        "Liquid",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Node.js",
+        "Shopify API"
+    ]
+},
+
+        {
+    "Title": "AutoMania",
+    "Description": "AutoMania is an Automotive Warehouse System web application designed to simplify the buying process for car and motorcycle spare parts. Users can search or browse for parts, view detailed information such as quality (original, first-class, or second-class), and place orders online. The platform registers suppliers and buyers, tracks purchases and sales, and provides exact product availability by location. It also offers optional delivery and mechanic services for installation or repair. AutoMania reduces travel time and costs, improves product transparency, and ensures quality assurance, making it a trusted business-to-client solution for automotive spare parts.",
+    "imgs": [
+        "assets/images/mazhr/image1.png",
+        "assets/images/mazhr/image2.png",
+        "assets/images/mazhr/image3.png",
+        "assets/images/mazhr/image4.png",
+        "assets/images/mazhr/image5.png",
+        "assets/images/mazhr/image6.png"
+    ],
+    "Technologies": [
+        "React",
+        "SASS",
+        "Material",
+        "Babel",
+        "NodeJS",
+        "ExpressJS",
+        "MongoDB"
+    ]
+},
+      
     "OtherProjects.Title": "More personal projects",
     "OtherProjects.Projects": [
         {
-            "Title": "Covid Tracker",
-            "Description": "Covid Tracker is a web app which is built using the 3rd Party Api integration. This app shows the records from worldwise and countrywise that shows the who much patient are suffer from covid who many died from covid and how many are recoverd from covid",
-            "ghLink": "https://github.com/mufeez1/carona19-tracker",
-            "demoLink": "http://carona19-by-muffeez.surge.sh/",
+            "Title": "BBM",
+            "Description": "A simple and minimalistic blog application that allows users to create, read, update, and delete blog posts.",
             "Technologies": [
-                "Angular",
-                "RxJs",
-                "API",
-                "Bootstrap"
-            ]
-        },
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Bootstrap",
+                
+            ],
         {
-            "Title": "Lets Chat",
-            "Description": "A real-time chat application. Another fun side project :)",
-            "ghLink": "https://github.com/mufeez1/lets-chat",
+            "Title": "Movie App",
+            "Description": "A real-time Movie application. Another fun side project :)",
+            "ghLink": "https://github.com/Ziadtari/movie-tracker-app",
             "Technologies": [
-                "React",
-                "SASS",
-                "Socket.io",
-                "NodeJS",
-                "ExpressJS",
-                "Firebase"
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Bootstrap",
+                
             ]
         },
         {
             "Title": "Quiz App",
             "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
-            "ghLink": "https://github.com/mufeez1/quizapp",
-            "demoLink": "https://github.com/mufeez1/quizapp",
+            "ghLink": "https://github.com/Ziadtari/Quiz-app",
+            "demoLink": "https://github.com/Ziadtari/Quiz-app",
             "Technologies": [
-                "React",
-                "SASS",
-                "TypeScript",
-                "API",
-                "3rd Party Library"
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Bootstrap",
+                
             ]
         },
         {
-            "Title": "JWT Integration",
-            "Description": "JWT AUTHENTICATION IN NODE JS WITH POSTGREESQL DB",
-            "ghLink": "https://github.com/mufeez1/node-jwt",
-            "demoLink": "https://github.com/mufeez1/node-jwt",
-            "Technologies": [
-                "React",
-                "JWT",
-                "ExpressJS",
-                "POSTGREESQL"
-            ]
-        }
-    ],
+            "Title": "Portfolio",
+            "Description": "This is my personal portfolio website, built with Angular. It showcases my skills, projects, and experience in a clean and modern design.",
+            
     "Contact.Pretitle": "What’s Next",
     "Contact.Title": "Get in touch!",
     "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
