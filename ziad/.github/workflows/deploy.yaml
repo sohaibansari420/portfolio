@@ -1,38 +1,31 @@
-name: Deploy Angular App to Vercel
+name: Deploy Angular App to GitHub Pages
 
 on:
   push:
     branches:
-      - Deployment
+      - main
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Setup Node.js
+      - name: Set up Node
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: 18
 
       - name: Install dependencies
         run: npm install
 
-      - name: Install Angular CLI
-        run: npm install --save-dev @angular/cli
+      - name: Build project
+        run: ng build --configuration production --base-href "/Portfolio/"
 
-      - name: Install Vercel CLI
-        run: npm install -g vercel
-
-      - name: Deploy to Vercel
-        env:
-          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
-        run: |
-          vercel pull --yes --environment=production --token=$VERCEL_TOKEN
-          vercel build --token=$VERCEL_TOKEN
-          vercel deploy --prebuilt --token=$VERCEL_TOKEN
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: dist/ziad-portfolio
