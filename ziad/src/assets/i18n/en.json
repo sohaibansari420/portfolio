@@ -1,83 +1,81 @@
 {
-    "Header.Item1": "About me",
-    "Header.Item2": "Experience",
-    "Header.Item3": "Projects",
-    "Header.Item4": "Contact",
-    "Header.cvBtn": "Resume",
-    "Header.cvName": "MUFFEEZ_CV.pdf",
-    "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "I have <span class='underline'>3 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, React, NodeJS and ExpressJS</span> and sometimes in <span class='underline'>Python</span> applying good practices and development standards.",
-    "Banner.ActionBtn": "Get in touch",
-    "AboutMe.Title": "About me",
-    "AboutMe.Paragraphs": [
-        "In my <span class='underline'>3 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>ExpressJS, NestJs, MongoDB and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
-        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
-        "Some of the technologies that I have trained and worked on include (but are not limited to):"
-    ],
-    "Experience.Title": "Experience",
-    "Experience.Jobs": [
-       {
-  "Tab": "Fixes Hub",
-  "Title": "Shopify Developer",
-  "Date": "April 2024 - September 2024",
-  "Description": [
-    "Developed and customized Shopify themes using Liquid, HTML, CSS, and JavaScript to enhance user experience and brand consistency.",
-    "Integrated third-party Shopify apps and APIs to extend store functionality, improving store performance and customer engagement.",
-    "Built custom Shopify apps using Node.js and the Shopify API to automate business processes and streamline backend operations.",
-    "Implemented responsive design practices to ensure mobile-friendly, cross-browser compatible storefronts.",
-    "Configured and maintained Shopify Plus features, including scripts and checkout customization.",
-    "Conducted planning meetings and prepared progress reports for stakeholders."
-  ]
-},
-        
-        {
-  "Tab": "Errands Services",
-  "Title": "QA Executive",
-  "Date": "October 2023 - March 2024",
-  "Description": [
-    "Provided regular feedback, coaching, and training to call center agents to improve communication skills, product knowledge, and customer satisfaction.",
-    "Compiled and analyzed quality assurance data to identify trends, performance gaps, and process improvement opportunities.",
-    "Worked closely with team leaders and operations managers to maintain consistent service levels and enhance the customer experience.",
-    "Prepared detailed QA reports and dashboards for senior management to support decision-making and strategy development."
-  ]
-},
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "MUFFEEZ_CV.pdf",
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I have <span class='underline'>2 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, React, NodeJS and ExpressJS</span> and sometimes in <span class='underline'>Python</span> applying good practices and development standards.",
+  "Banner.ActionBtn": "Get in touch",
+  "AboutMe.Title": "About me",
+ "AboutMe.Paragraphs": [
+  "I hold a <span class='underline'>Master’s degree in Software Engineering</span> from the <span class='underline'> University of Greater Manchester </span>, where I developed a strong foundation in advance software architecture, development methodologies, and scalable systems. This academic experience has deeply influenced my professional mindset and commitment to quality engineering.",
+  "In my <span class='underline'>2 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>ExpressJS, NestJs, MongoDB and MySQL</span>. I have led teams with empathy, motivating colleagues, and collaboratively setting plans and goals.",
+  "My skills also include implementing system improvements, optimizing websites, standardizing development patterns, and suggesting and executing ideas that add measurable value to the projects I contribute to.",
+  "Some of the technologies that I have trained and worked on include (but are not limited to):"
+],
 
- {
-  "Tab": "IT Ramp Solutions",
-  "Title": "IT Intern",
-  "Date": "August 2023 - September 2023",
-  "Description": [
-    "Provided regular feedback, coaching, and training to call center agents to improve communication skills, product knowledge, and customer satisfaction.",
-    "Compiled and analyzed quality assurance data to identify trends, performance gaps, and process improvement opportunities.",
-    "Worked closely with team leaders and operations managers to maintain consistent service levels and enhance the customer experience.",
-    "Prepared detailed QA reports and dashboards for senior management to support decision-making and strategy development."
-  ]
-},
-
-        {
-            "Tab": "Freelancer",
-            "Title": "Independent",
-            "Date": "March 2020 - Present",
-            "Description": [
-                "Implementing continuous improvements, working on frontend and backend.",
-                "Creating platforms with Angular, Nodejs, ExpressJS, Shopify, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
-                "Automation of processes with data structures.",
-                "Design layout with SASS, Bootstrap, Materialize, etc."
-            ]
-        }
-    ],
-    "FeatureProjects.Title": "Projects that I was a part of",
-    "FeatureProjects.Label": "Featured Project",
-    "FeatureProjects.Projects": [
-        {
-    "Title": "SympCheck - AI Symptom Checker",
-    "Description": "SympCheck is an AI-powered symptom checker application built using a modern full-stack approach. It leverages natural language processing through the Groq API to provide users with a preliminary understanding of potential health issues based on their symptom inputs. The application is developed with Next.js, TypeScript, TailwindCSS on the frontend, and Express.js on the backend, ensuring reliability and scalability. CI/CD is managed via GitHub Actions, and the system is deployed on AWS EC2. SympCheck emphasizes ethical AI use, avoiding diagnosis or medication suggestions.",
-    "imgs": [
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Fixes Hub",
+      "Title": "Shopify Developer",
+      "Date": "April 2024 - September 2024",
+      "Description": [
+        "Developed and customized Shopify themes using Liquid, HTML, CSS, and JavaScript to enhance user experience and brand consistency.",
+        "Integrated third-party Shopify apps and APIs to extend store functionality, improving store performance and customer engagement.",
+        "Implemented responsive design practices to ensure mobile-friendly, cross-browser compatible storefronts.",
+        "Configured and maintained Shopify Plus features, including scripts and checkout customization.",
+        "Conducted planning meetings and prepared progress reports for stakeholders."
+      ]
+    },
+    {
+      "Tab": "Errands Services",
+      "Title": "QA Executive",
+      "Date": "October 2023 - March 2024",
+      "Description": [
+        "Provided regular feedback, coaching, and training to call center agents to improve communication skills, product knowledge, and customer satisfaction.",
+        "Compiled and analyzed quality assurance data to identify trends, performance gaps, and process improvement opportunities.",
+        "Worked closely with team leaders and operations managers to maintain consistent service levels and enhance the customer experience.",
+        "Prepared detailed QA reports and dashboards for senior management to support decision-making and strategy development."
+      ]
+    },
+    {
+      "Tab": "IT Ramp Solutions",
+      "Title": "IT Intern",
+      "Date": "August 2023 - September 2023",
+      "Description": [
+        "Provided regular feedback, coaching, and training to call center agents to improve communication skills, product knowledge, and customer satisfaction.",
+        "Compiled and analyzed quality assurance data to identify trends, performance gaps, and process improvement opportunities.",
+        "Worked closely with team leaders and operations managers to maintain consistent service levels and enhance the customer experience.",
+        "Prepared detailed QA reports and dashboards for senior management to support decision-making and strategy development."
+      ]
+    },
+    {
+      "Tab": "Freelancer",
+      "Title": "Independent",
+      "Date": "March 2020 - Present",
+      "Description": [
+        "Implementing continuous improvements, working on frontend and backend.",
+        "Creating platforms with Angular, Nodejs, ExpressJS, Shopify, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
+        "Automation of processes with data structures.",
+        "Design layout with SASS, Bootstrap, Materialize, etc."
+      ]
+    }
+  ],
+  "FeatureProjects.Title": "Projects that I was a part of",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "SympCheck - AI Symptom Checker",
+      "Description": "SympCheck is an AI-powered symptom checker application built using a modern full-stack approach. It leverages natural language processing through the Groq API to provide users with a preliminary understanding of potential health issues based on their symptom inputs. The application is developed with Next.js, TypeScript, TailwindCSS on the frontend, and Express.js on the backend, ensuring reliability and scalability. CI/CD is managed via GitHub Actions, and the system is deployed on AWS EC2. SympCheck emphasizes ethical AI use, avoiding diagnosis or medication suggestions.",
+      "imgs": [
         "assets/images/school/image1.png",
         "assets/images/school/image2.png",
         "assets/images/school/image3.png"
-    ],
-    "Technologies": [
+      ],
+      "Technologies": [
         "Next.js",
         "TypeScript",
         "TailwindCSS",
@@ -85,16 +83,18 @@
         "Groq API",
         "AWS EC2",
         "GitHub Actions"
-    ]
-},
-        {
-    "Title": "Fixes Hub",
-    "Description": "Fixes Hub is a comprehensive Shopify development project focused on enhancing user experience and streamlining backend operations for e-commerce businesses. The project involved developing and customizing Shopify themes using Liquid, HTML, CSS, and JavaScript to ensure brand consistency and improve storefront responsiveness. It also integrated third-party Shopify apps and APIs to extend store functionality, built custom apps using Node.js and the Shopify API to automate business processes, and configured Shopify Plus features including checkout customizations. Regular planning meetings and stakeholder updates ensured clear communication and smooth project execution.",
-    "imgs": [
+      ]
+    },
+    {
+      "Title": "Fixes Hub",
+      "Description": "Fixes Hub is a comprehensive Shopify development project focused on enhancing user experience and streamlining backend operations for e-commerce businesses. The project involved developing and customizing Shopify themes using Liquid, HTML, CSS, and JavaScript to ensure brand consistency and improve storefront responsiveness. It also integrated third-party Shopify apps and APIs to extend store functionality, built custom apps using Node.js and the Shopify API to automate business processes, and configured Shopify Plus features including checkout customizations. Regular planning meetings and stakeholder updates ensured clear communication and smooth project execution.",
+      "imgs": [
         "assets/images/bbm/image1.png",
-        "assets/images/bbm/image2.png"
-    ],
-    "Technologies": [
+        "assets/images/bbm/image2.png",
+         "assets/images/bbm/image3.png",
+          "assets/images/bbm/image4.png"
+      ],
+      "Technologies": [
         "Shopify",
         "Liquid",
         "HTML",
@@ -102,21 +102,20 @@
         "JavaScript",
         "Node.js",
         "Shopify API"
-    ]
-},
-
-        {
-    "Title": "AutoMania",
-    "Description": "AutoMania is an Automotive Warehouse System web application designed to simplify the buying process for car and motorcycle spare parts. Users can search or browse for parts, view detailed information such as quality (original, first-class, or second-class), and place orders online. The platform registers suppliers and buyers, tracks purchases and sales, and provides exact product availability by location. It also offers optional delivery and mechanic services for installation or repair. AutoMania reduces travel time and costs, improves product transparency, and ensures quality assurance, making it a trusted business-to-client solution for automotive spare parts.",
-    "imgs": [
+      ]
+    },
+    {
+      "Title": "AutoMania",
+      "Description": "AutoMania is an Automotive Warehouse System web application designed to simplify the buying process for car and motorcycle spare parts. Users can search or browse for parts, view detailed information such as quality (original, first-class, or second-class), and place orders online. The platform registers suppliers and buyers, tracks purchases and sales, and provides exact product availability by location. It also offers optional delivery and mechanic services for installation or repair. AutoMania reduces travel time and costs, improves product transparency, and ensures quality assurance, making it a trusted business-to-client solution for automotive spare parts.",
+      "imgs": [
         "assets/images/mazhr/image1.png",
         "assets/images/mazhr/image2.png",
         "assets/images/mazhr/image3.png",
         "assets/images/mazhr/image4.png",
         "assets/images/mazhr/image5.png",
         "assets/images/mazhr/image6.png"
-    ],
-    "Technologies": [
+      ],
+      "Technologies": [
         "React",
         "SASS",
         "Material",
@@ -124,52 +123,57 @@
         "NodeJS",
         "ExpressJS",
         "MongoDB"
-    ]
-},
-      
-    "OtherProjects.Title": "More personal projects",
-    "OtherProjects.Projects": [
-        {
-            "Title": "BBM",
-            "Description": "A simple and minimalistic blog application that allows users to create, read, update, and delete blog posts.",
-            "Technologies": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "Bootstrap",
-                
-            ],
-        {
-            "Title": "Movie App",
-            "Description": "A real-time Movie application. Another fun side project :)",
-            "ghLink": "https://github.com/Ziadtari/movie-tracker-app",
-            "Technologies": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "Bootstrap",
-                
-            ]
-        },
-        {
-            "Title": "Quiz App",
-            "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
-            "ghLink": "https://github.com/Ziadtari/Quiz-app",
-            "demoLink": "https://github.com/Ziadtari/Quiz-app",
-            "Technologies": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "Bootstrap",
-                
-            ]
-        },
-        {
-            "Title": "Portfolio",
-            "Description": "This is my personal portfolio website, built with Angular. It showcases my skills, projects, and experience in a clean and modern design.",
-            
-    "Contact.Pretitle": "What’s Next",
-    "Contact.Title": "Get in touch!",
-    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
-    "Contact.Btn": "Say Hello"
+      ]
+    }
+  ],
+  "OtherProjects.Title": "More personal projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "BBM",
+      "Description": "A simple and minimalistic blog application that allows users to create, read, update, and delete blog posts.",
+      "Technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Title": "Movie App",
+      "Description": "A real-time Movie application. Another fun side project :)",
+      "ghLink": "https://github.com/Ziadtari/movie-tracker-app",
+      "Technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Title": "Quiz App",
+      "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
+      "ghLink": "https://github.com/Ziadtari/Quiz-app",
+      "demoLink": "https://github.com/Ziadtari/Quiz-app",
+      "Technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Title": "Portfolio",
+      "Description": "This is my personal portfolio website, built with Angular. It showcases my skills, projects, and experience in a clean and modern design.",
+      "Technologies": [
+        "Angular",
+        "HTML",
+        "CSS",
+        "TypeScript"
+      ]
+    }
+  ],
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+  "Contact.Btn": "Say Hello"
 }
