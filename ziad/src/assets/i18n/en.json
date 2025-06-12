@@ -4,7 +4,7 @@
   "Header.Item3": "Projects",
   "Header.Item4": "Contact",
   "Header.cvBtn": "Resume",
-  "Header.cvName": "MUFFEEZ_CV.pdf",
+  "Header.cvName": "Ziad_Bin_Tariq_Final_CV.pdf",
   "Banner.Pretitle": "Hello! My name is",
   "Banner.Description": "I have <span class='underline'>2 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, React, NodeJS and ExpressJS</span> and sometimes in <span class='underline'>Python</span> applying good practices and development standards.",
   "Banner.ActionBtn": "Get in touch",
@@ -82,9 +82,13 @@
         "Express.js",
         "Groq API",
         "AWS EC2",
+        "CI/CD Pipeline",
         "GitHub Actions"
-      ]
+      ],
+            "ghLink": "https://github.com/Devsclass/Symptoms-Checker-Bot" 
+
     },
+    
     {
       "Title": "Fixes Hub",
       "Description": "Fixes Hub is a comprehensive Shopify development project focused on enhancing user experience and streamlining backend operations for e-commerce businesses. The project involved developing and customizing Shopify themes using Liquid, HTML, CSS, and JavaScript to ensure brand consistency and improve storefront responsiveness. It also integrated third-party Shopify apps and APIs to extend store functionality, built custom apps using Node.js and the Shopify API to automate business processes, and configured Shopify Plus features including checkout customizations. Regular planning meetings and stakeholder updates ensured clear communication and smooth project execution.",
