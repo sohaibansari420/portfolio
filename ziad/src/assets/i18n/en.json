@@ -11,7 +11,7 @@
   "AboutMe.Title": "About me",
  "AboutMe.Paragraphs": [
   "I hold a <span class='underline'>Master’s degree in Software Engineering</span> from the <span class='underline'> University of Greater Manchester </span>, where I developed a strong foundation in advance software architecture, development methodologies, and scalable systems. This academic experience has deeply influenced my professional mindset and commitment to quality engineering.",
-  "In my <span class='underline'>2 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>ExpressJS, NestJs, MongoDB and MySQL</span>. I have led teams with empathy, motivating colleagues, and collaboratively setting plans and goals.",
+  "In my <span class='underline'>2 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>ExpressJS, NextJs, MongoDB and MySQL</span>. I have led teams with empathy, motivating colleagues, and collaboratively setting plans and goals.",
   "My skills also include implementing system improvements, optimizing websites, standardizing development patterns, and suggesting and executing ideas that add measurable value to the projects I contribute to.",
   "Some of the technologies that I have trained and worked on include (but are not limited to):"
 ],
