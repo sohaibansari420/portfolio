@@ -1,14 +1,14 @@
 {
-  "name": "ziad-portfolio",
+  "name": "sohaib-portfolio",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build ziad-portfolio --configuration=production",
+    "build": "ng build sohaib-portfolio --configuration=production",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "ng build --prod --base-href /ziad/ && ngh --dir=dist/ziad "
+    "deploy": "ng build --prod --base-href /sohaib/ && ngh --dir=dist/sohaib "
   },
   "private": true,
   "dependencies": {
@@ -23,7 +23,7 @@
     "@angular/router": "~13.2.3",
     "@angular/service-worker": "~13.2.3",
     "@fortawesome/fontawesome-free": "^5.14.0",
-    "@ng-bootstrap/ng-bootstrap": "^13.1.1",
+    "@ng-bootstrap/ng-bootstrap": "^11.0.1",
     "@ngx-translate/core": "^13.0.0",
     "@ngx-translate/http-loader": "^6.0.0",
     "aos": "^2.3.4",

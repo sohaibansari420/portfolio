@@ -9,7 +9,7 @@ import { LanguageService } from "src/app/services/language/language.service"
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  title = 'ziad-portfolio';
+  title = 'sohaib-portfolio';
 
   constructor(
     private titleService: Title,
@@ -21,7 +21,7 @@ export class AppComponent implements OnInit {
 
     this.languageService.initLanguage()
 
-    this.titleService.setTitle("Ziad Bin Tariq | Software Engineer");
+    this.titleService.setTitle("sohaib Bin Tariq | Software Engineer");
     this.metaService.addTags([
       { name: 'keywords', content: 'Frontend, MEAN Stack Developer , MERN Stack Development , Software Engineer, software, developer' },
       { name: 'description', content: 'As a software engineer with expertise in both MEAN and MERN stacks, I have a comprehensive understanding of full-stack web development. My strong foundation in JavaScript allows me to effectively work with front-end technologies such as Angular and React, as well as back-end technologies such as Node.js and Express.' },
